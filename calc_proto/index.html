@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calc</title>
+    </head>
+    <body>
+        <input type="text" id="operand1" />
+        +
+        <input type="text" id="operand2" />
+        =
+        <input type="text" id="result" />
+        <button id="calculateButton">Calculate!</button>
+
+        <script type="text/javascript">
+            var operand1 = document.getElementById("operand1");
+            var operand2 = document.getElementById("operand2");
+            var result   = document.getElementById("result");
+            var calculateButton = document.getElementById("calculateButton");
+
+            calculateButton.addEventListener("click", function() {
+                result.value = parseInt(operand1.value) + parseInt(operand2.value);
+            });
+        </script>
+    </body>
+</html>
