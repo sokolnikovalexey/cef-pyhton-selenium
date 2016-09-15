@@ -19,6 +19,9 @@ How to start testing CEF applications with python and selenium on windows
 4. Update test case for your needs or use my test cases
 4. Run python calc_cef_test.py
 
-##Usefull Resources
+##Useful Resources
 * [EN: Java tutorial CEF + ChromeDriver](https://bitbucket.org/chromiumembedded/cef/wiki/UsingChromeDriver)
+* [EN: Official Python Selenium API](https://seleniumhq.github.io/selenium/docs/api/py/api.html)
+* [EN: Not Official Python Selenium API](http://selenium-python.readthedocs.io/api.html)
+* [EN: Selenium Python Getting Started](http://selenium-python.readthedocs.io/getting-started.html)
 * [RU: Python3 + Selenium tutorial for FireFox (not CEF)](https://habrahabr.ru/post/248559/)
