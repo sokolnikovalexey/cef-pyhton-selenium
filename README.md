@@ -1,6 +1,12 @@
 # cef-pyhton-selenium
 How to start testing CEF applications with python and selenium on windows
 
+UPD(11/3/2018) In current moment that is not actual solution.
+I wrote new one to solve this problem
+https://github.com/sokolnikovalexey/cef-nodejs-selenium
+
+===
+
 ##Installing the Environment
 1. Clone this repo
 2. Download and install [Python 2.7](https://www.python.org/downloads/)
